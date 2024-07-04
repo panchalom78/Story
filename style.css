@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    width: 300px;
+    gap: 30px;
+    background-color: aquamarine;
+}
+
+.container a{
+    text-decoration: none;
+    padding: 2px 3px;
+}
+
+.container a:hover{
+    background-color: 
+}
